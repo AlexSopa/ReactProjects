@@ -1,0 +1,9 @@
+#Follow https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/
+#Begin using JFiddle or Codepen
+             #JFiddle Environment  : https://jsfiddle.net/me4z1xyp/2/
+             #Codepen Environement : https://codepen.io/srebalaji/pen/MVbWdB
+
+#End plan : Create a webclient for gmail that is highly customizable & maybe uses machine learning
+#to learn how to sort emails to the users liking
+
+#Optimistim Level : 10/10
